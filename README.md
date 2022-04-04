@@ -5,4 +5,5 @@
 
 # Introduction
 Sustech 2020-2021 Spring Semester CS102A(Java)
+
 There are 5 assignments in this course. The course final project is MineSweeper by Java.
